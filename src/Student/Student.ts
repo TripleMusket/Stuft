@@ -1,6 +1,6 @@
-import { Entity } from "../Entity/Entity";
-import { IEntity } from "../Entity/IEntity";
-import { EntityType } from "../Entity/EntityType";
+import { Entity } from "Entity/Entity";
+import { IEntity } from "Entity/IEntity";
+import { EntityType } from "Entity/EntityType";
 
 export class Student extends Entity implements IEntity
 {

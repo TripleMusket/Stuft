@@ -1,4 +1,4 @@
-import { Student } from "./Student/Student";
+import { Student } from "Student/Student";
 
 let entity = new Student("John Doe");
 console.log(`An entity of type ${entity.getType()} is named ${entity.getName()}`);
