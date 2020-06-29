@@ -1,4 +1,4 @@
-import { EntityType } from "./EntityType";
+import { EntityType } from "Entity/EntityType";
 
 export interface IEntity
 {
